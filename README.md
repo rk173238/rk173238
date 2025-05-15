@@ -1,8 +1,7 @@
 ### Rohit Kumar 👋
 <a href="https://app.daily.dev/rohit47"><img src="https://api.daily.dev/devcards/v2/rTgMUM8FikAQf3H6d4OLU.png?type=default&r=s3s" width="356" alt="Rohit's Dev Card"/></a>
 
-- ⚡ Fun fact: If your project has an EOD job, do not execute it on your first day—especially not in production. It’s not a job, it’s a trap disguised as automation.
-  
+
 <!--
 **rk173238/rk173238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
+- ⚡ Fun fact: If your project has an EOD job, do not execute it on your first day—especially not in production. It’s not a job, it’s a trap disguised as automation.
 -->
